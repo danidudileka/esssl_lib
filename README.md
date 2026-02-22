@@ -6,7 +6,7 @@ Demo Credentials
 
 - Reader Login:
 
-  - Username: 'danidu@email.com'
+  - Username: `danidu@email.com`
   - Password: `crv96rDe`
 
 - Librarian Login:
@@ -113,13 +113,13 @@ Local Development
 
 ```
 library-management-system/
-├── admin/                  # Librarian and Super Admin panels
-├── reader/                 # Reader/Student interface
-├── assets/                 # CSS, JavaScript, and image files
+├── admin/                 # Librarian and Super Admin panels
+├── reader/                # Reader/Student interface
+├── assets/                # CSS, JavaScript, and image files
 ├── includes/              # PHP configuration and utility files
 ├── database/              # SQL files and database scripts
 ├── documentation/         # Project documentation and reports
-└── README.md             # This file
+└── README.md              # This file
 ```
 
 🔐 Security Features
@@ -159,9 +159,11 @@ The system has undergone comprehensive testing including:
 | System Administration | ❌     | ❌        | ✅          |
 | Authorize Deletions   | ❌     | ❌        | ✅          |
 
-- Project Lead: Danidu Dileka
-- Developer/Documentation: Nadun Warshan
-- UI/UX Designer: Dulmin Theekshana
+Project By
+Danidu Dileka CL/BSCSE-CMU/07/07
+Nomith Rasanjana CL/BSCSE-CMU/07/24
+Nadun Warshan CL/BSCSE-CMU/07/26
+Dulmin Theekshana CL/BSCSE-CMU/07/16
 
 📄 License
 
