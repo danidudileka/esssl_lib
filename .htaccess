@@ -1,0 +1,3 @@
+RewriteEngine On 
+RewriteRule ^dashboard/(.*)$ reader/dashboard/$1 [L] 
+RewriteRule ^dashboard$ reader/dashboard/ [L] 
