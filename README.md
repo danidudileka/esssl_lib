@@ -12,7 +12,7 @@ Demo Credentials
 - Librarian Login:
 
   - Username: `librarian@esssl.com`
-  - Password: `lib_test`
+  - Password: `librarian`
 
 - Super Admin Login:
   - Username: `admin@esssl.com`

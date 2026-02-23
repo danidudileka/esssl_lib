@@ -151,7 +151,7 @@ try {
     ob_end_clean();
     
     // Set headers for CSV download
-    $filename = 'ABC_Library_Loan_History_' . date('Y-m-d_H-i-s') . '.csv';
+    $filename = 'ESSL_Library_Loan_History_' . date('Y-m-d_H-i-s') . '.csv';
     header('Content-Type: text/csv; charset=utf-8');
     header('Content-Disposition: attachment; filename="' . $filename . '"');
     header('Cache-Control: no-cache, must-revalidate');

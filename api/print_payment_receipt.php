@@ -311,10 +311,10 @@ try {
 </head>
 <body>
     <div class="receipt-container">
-        <div class="watermark">ABC LIBRARY</div>
+        <div class="watermark">ESSL LIBRARY</div>
         
         <div class="header">
-            <h1>ABC Library</h1>
+            <h1>ESSL Library</h1>
             <div class="tagline">Your Gateway to Knowledge</div>
             <div class="receipt-number">
                 Receipt #<?php echo str_pad($payment['payment_id'], 6, '0', STR_PAD_LEFT); ?>
@@ -393,7 +393,7 @@ try {
         </div>
         
         <div class="footer">
-            <h4>ABC Library Management System</h4>
+            <h4>ESSL Library Management System</h4>
             <p>Generated on: <?php echo date('F j, Y g:i A'); ?></p>
             <p>This is a computer-generated receipt and serves as proof of payment.</p>
             <p>For any queries, please contact library administration.</p>
